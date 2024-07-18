@@ -1,4 +1,4 @@
 streamlit
 ultralytics
 pillow
-cv2
+opencv-python
